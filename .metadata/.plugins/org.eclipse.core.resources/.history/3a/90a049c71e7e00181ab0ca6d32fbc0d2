@@ -1,0 +1,7 @@
+// throwaway class for first time running springboot
+package com.hazelcast.sboot.demo.cluster;
+public class App {
+	public static void main(String[] args) {
+		System.out.println("This is the app class. ");
+	}
+}
